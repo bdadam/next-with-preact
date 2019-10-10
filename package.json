@@ -1,0 +1,19 @@
+{
+    "name": "next-with-preact",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "next dev",
+        "export": "next export",
+        "build": "next build",
+        "start": "next start"
+    },
+    "repository": "git@github.com:bdadam/next-with-preact.git",
+    "author": "Adam <me@bdadam.com>",
+    "license": "MIT",
+    "dependencies": {
+        "next": "^9.1.1",
+        "preact": "^10.0.0",
+        "react": "^16.10.2",
+        "react-dom": "^16.10.2"
+    }
+}

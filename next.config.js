@@ -8,7 +8,4 @@ module.exports = {
 
         return config;
     },
-    options: {
-        outDir: 'dist',
-    },
 };
